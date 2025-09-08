@@ -1,14 +1,8 @@
 # 👩🏻‍💻 Leonardo Jose
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-stack`**
 
-Sou Leonardo José, estudante de programação e suporte técnico, nascido e criado em Viçosa – MG, no bairro Nova Viçosa. Tenho 19 anos e me encontrei na tecnologia como uma ponte entre o presente e o futuro.
-
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento front-end com HTML, CSS, JavaScript e frameworks modernos. Criei projetos reais, como um sistema de controle de gastos 100% funcional e responsivo, feito do zero para ser usado em dispositivos móveis.
-
-Estudo com consistência, praticando todos os dias e buscando sempre aplicar o que aprendo em projetos que resolvem problemas do mundo real. Tenho paixão por aprender, construir e evoluir — e estou em busca de oportunidades para crescer como desenvolvedor e contribuir com equipes inovadoras.
-
-Meu objetivo é entrar profissionalmente no mercado de tecnologia e, futuramente, empreender com soluções que tragam impacto para grandes empresas..
+Sou Leonardo José, desenvolvedor full-stack em formação de Viçosa-MG. Trabalho com HTML, CSS, JavaScript, React no frontend e Node.js, Express e SQL no backend. Crio projetos reais, como sistemas responsivos e chats em tempo real, transformando aprendizado em soluções funcionais. Apaixonado por tecnologia, estudo diariamente e busco crescer contribuindo com projetos que fazem a diferença.
 
 ---
 
@@ -38,6 +32,15 @@ Meu objetivo é entrar profissionalmente no mercado de tecnologia e, futuramente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
 
 
 <br/>
