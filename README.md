@@ -40,6 +40,30 @@ Sou Leonardo José, desenvolvedor full-stack em formação de Viçosa-MG. Trabal
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Knex" 
+    title="Knex"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
 
 
 
