@@ -1,12 +1,14 @@
-# 👩🏻‍💻 Leonardo Jose
+# 👨🏻‍💻 Leonardo José
 
-**`Desenvolvedor Full-stack`**
+**`Desenvolvedor Full-Stack`**
 
-Sou Leonardo José, desenvolvedor full-stack em formação de Viçosa-MG. Trabalho com HTML, CSS, JavaScript, React no frontend e Node.js, Express e SQL no backend. Crio projetos reais, como sistemas responsivos e chats em tempo real, transformando aprendizado em soluções funcionais. Apaixonado por tecnologia, estudo diariamente e busco crescer contribuindo com projetos que fazem a diferença.
+Sou Leonardo José, desenvolvedor full-stack em formação, natural de Viçosa-MG. Atuo na equipe de programação da empresa, realizando manutenção, correção de bugs e implementação de novas funcionalidades em sistemas desenvolvidos com **Vue.js**. Possuo experiência também com **React** no frontend e com **Node.js**, **Express** e **SQL** no backend.  
+Tenho como objetivo aprimorar continuamente minhas habilidades técnicas e contribuir para o desenvolvimento de soluções eficientes e de alto impacto.  
+Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em sistemas funcionais e bem estruturados.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -34,6 +36,14 @@ Sou Leonardo José, desenvolvedor full-stack em formação de Viçosa-MG. Trabal
 />
 <img 
     align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React" 
     title="React"
     width="30px" 
@@ -42,50 +52,13 @@ Sou Leonardo José, desenvolvedor full-stack em formação de Viçosa-MG. Trabal
 />
 <img 
     align="left" 
-    alt="Knex" 
-    title="Knex"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node" 
-    title="Node"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
-
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardojsx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojsx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    align="left" 
+    alt="Express" 
+    tit
