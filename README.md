@@ -36,6 +36,14 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Vue.js" 
     title="Vue.js"
     width="30px" 
